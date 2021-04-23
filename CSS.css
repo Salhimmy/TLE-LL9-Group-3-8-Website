@@ -63,3 +63,7 @@ body{
      height: 500px;
      justify-content: center;
  }
+
+a:hover {
+    color:lightcoral
+}
